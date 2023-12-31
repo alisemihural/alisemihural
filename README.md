@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 ### I'm @alisemihural
 
-- 🔭 I am currently working on a personal project that involves converting photos of books into an interactive database
+- 🔭 I am currently working on a personal project that involves converting photos of bookshelves into an interactive database
 - 🌱 I’m currently learning about langchain
 - 👯 I’m looking to collaborate on Artificial Intelligence Projects
 - 📫 You can reach me via asu25@drexel.edu
