@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi there 
+### I'm @alisemihural
+
+- 🔭 I am currently working on a personal project that involves converting photos of books into an interactive database
+- 🌱 I’m currently learning about langchain
+- 👯 I’m looking to collaborate on Artificial Intelligence Projects
+- 📫 You can reach me via asu25@drexel.edu
 
 <!--
 **alisemihural/alisemihural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
