@@ -2,9 +2,10 @@
 ### I'm @alisemihural
 
 - 🔭 I am currently working at Mirka Investments, LLC as Information Technology Specialist
-<!-- - 🌱 I’m currently learning about langchain -->
 - 👯 I’m always open to collaborate on projects
 - 📫 You can reach me via asu25@drexel.edu
+
+<!-- 🌱 I’m currently learning about langchain -->
 
 <!--
 **alisemihural/alisemihural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
