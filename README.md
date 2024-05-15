@@ -1,9 +1,9 @@
 ### 👋 Hi there 
 ### I'm @alisemihural
 
-- 🔭 I am currently working on a project about converting photos of bookshelves into an interactive database
-- 🌱 I’m currently learning about langchain
-- 👯 I’m looking to collaborate on Artificial Intelligence Projects
+- 🔭 I am currently working at Mirka Investments, LLC as Information Technology Specialist
+<!-- - 🌱 I’m currently learning about langchain -->
+- 👯 I’m always open to collaborate on projects
 - 📫 You can reach me via asu25@drexel.edu
 
 <!--
