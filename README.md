@@ -1,6 +1,7 @@
 ### 👋 Hi there 
 ### I'm @alisemihural
 
+<!--
 - 🔭 I am currently working at Mirka Investments, LLC as Information Technology Specialist
 - 👯 I’m always open to collaborate on projects
 - 📫 You can reach me via asu25@drexel.edu
